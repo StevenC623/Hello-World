@@ -22,7 +22,7 @@ And in-depth paragraph about your project and overview of use.
 - Any modifications needed to be made to files/folders
 
 ```sh
-$ code blocks for commands
+code blocks for commands
 ```
 # License
 
