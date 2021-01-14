@@ -26,5 +26,5 @@ $ code blocks for commands
 ```
 # License
 
-This __project__ is licensed under [NAME HERE] License - see the LICENSE.md file for details. 
+This __project__ is licensed under [NAME HERE] License - see the [LICENSE.md](https://github.com/StevenC623/Hello-World/LICENSE.md) file for details. 
 
