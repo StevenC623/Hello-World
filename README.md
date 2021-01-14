@@ -25,4 +25,4 @@ And in-depth paragraph about your project and overview of use.
 
 # License
 
-$ gulp build --prod
+This project is licensed under [NAME HERE] License - see the LICENSE.md file for details. 
