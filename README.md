@@ -25,4 +25,4 @@ And in-depth paragraph about your project and overview of use.
 
 # License
 
-This project is licensed under [NAME HERE] License - see the LICENSE.md file for details. 
+This __project__ is licensed under [NAME HERE] License - see the LICENSE.md file for details. 
